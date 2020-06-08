@@ -1,0 +1,65 @@
+textarea {
+	min-height: 150px;
+	resize: none;
+}
+
+h1 span{
+    float:right;
+    text-align: right;
+    clear:both;
+    margin-left: 50px;
+}
+
+.bg {
+	background-image: WBS.jpg;
+	height: 100%;
+	background-position: absolute;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.QuestionTd {
+	width: 40%;
+}
+
+.selfcheck {
+	width: 100vw;
+	height: 100vh;
+	float: left;
+}
+
+.navbar-default {
+	background-color: #c4ffd8;
+}
+
+.mintColor {
+	background-color: #c4ffd8;
+}
+
+.blueFont {
+	color: #605F5E;
+}
+
+.szary {
+	font-family: 'Raleway', sans-serif;
+}
+
+.r {
+	color: #112D37;
+}
+
+.y {
+	color: #F28F3B;
+}
+
+.b{
+	color: #119DA4;
+}
+
+#logo {
+	height: 100px;
+}
+
+#footer {
+	background-color: #c4ffd8;
+}
